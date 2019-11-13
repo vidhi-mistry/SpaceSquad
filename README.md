@@ -8,17 +8,19 @@ Follow the commands before time runs out!
 
 
 # How to Play ?
-Start Server
+
+1)Start Server
 •	Start the server (Server.java)
 •	Note the address given in the consol. This will be used by players to enter the same game.
-Add Players
+
+2)Add Players
 •	Players can start the Spaceteam.java 
 •	Enter the address from the server to join the same game
 •	Start the game by rolling the slider to PLAY
 •	You will be taken then to waiting room, where you wait for other players
 •	Once your squad-members have entered waiting room, if everyone presses ‘I AM READY’, the gameplay will begin
 
-Gameplay
+3)Gameplay
 •	Follow the commands given on the screen
 •	The widget in question may be on your screen or your teammates!
 •	If a command is missed, the comet moves closer to your spaceship!

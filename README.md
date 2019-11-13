@@ -1,5 +1,5 @@
 # SpaceSquad
-SPACESQUAD :
+
 Spacesquad is a cooperative multiplayer game who shout technobabble at each other until their ship explodes. Each player needs a laptop device. It can also be played in single player mode.
 
 You'll be assigned a random control panel with buttons. You need to follow time-sensitive instructions. However, the instructions are being sent to your teammates, so you have to coordinate before the time runs out. Also, the space-ship is falling apart. And you're trying to outrun an exploding star.
@@ -7,7 +7,7 @@ You'll be assigned a random control panel with buttons. You need to follow time-
 Follow the commands before time runs out!
 
 
-WORKING:
+# How to Play ?
 Start Server
 •	Start the server (Server.java)
 •	Note the address given in the consol. This will be used by players to enter the same game.

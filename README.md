@@ -11,7 +11,7 @@ Follow the commands before time runs out!
 
 1)Start Server
 •	Start the server (Server.java)
-•	Note the address given in the consol. This will be used by players to enter the same game.
+•	Note the address given in the console. This will be used by players to enter the same game.
 
 2)Add Players
 •	Players can start the Spaceteam.java 
@@ -25,7 +25,7 @@ Follow the commands before time runs out!
 •	The widget in question may be on your screen or your teammates!
 •	If a command is missed, the comet moves closer to your spaceship!
 
- End of Game
+ 4)End of Game
 •	When a team misses too many commands on a level, their spaceship will be hit by the comet and game will be over
 •	At the end according to your squad’s performance in the game, compatibility of your squad will be shown
 
